@@ -1,0 +1,5 @@
+cd D:\PayanNameh\paper-structure\deep-keypoints-attack
+.\.venv\Scripts\activate
+cd three_solutions\critical_region
+python defense_batch_critical.py
+python analyze_results_critical.py

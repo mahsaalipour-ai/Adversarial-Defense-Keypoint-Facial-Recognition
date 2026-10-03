@@ -1,0 +1,6 @@
+همه رو با هم بزن:
+
+cd D:\PayanNameh\paper-structure\deep-keypoints-attack\three_solutions\adv_training
+
+python defense_batch_advtrain.py
+python analyze_results_advtrain.py

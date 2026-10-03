@@ -1,0 +1,8 @@
+همه رو با هم بزن:
+
+cd D:\PayanNameh\paper-structure\deep-keypoints-attack
+.\.venv\Scripts\activate
+cd D:\PayanNameh\paper-structure\deep-keypoints-attack\three_solutions\feature_compress
+
+python defense_batch_compress.py
+python analyze_results_compress.py

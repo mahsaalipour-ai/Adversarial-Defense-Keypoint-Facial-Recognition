@@ -1,0 +1,6 @@
+Defense Method: Feature Compression (Bit-depth Reduction)
+Defense Accuracy: 0.0
+dist_clean_def: 21.953920364379883
+dist_attack_def: 30.901426315307617
+
+(Generated Automatically)

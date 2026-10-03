@@ -1,0 +1,6 @@
+Defense Method: Critical Region Selection
+Defense Accuracy: 0.0
+dist_clean_def: 20.4207820892334
+dist_attack_def: 29.87291145324707
+
+(Generated Automatically)

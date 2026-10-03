@@ -1,0 +1,6 @@
+Defense Method: Adversarial Training
+Defense Accuracy: 0.0
+dist_clean_def: 21.833120346069336
+dist_attack_def: 30.823938369750977
+
+(Generated Automatically)
